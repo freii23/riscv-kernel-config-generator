@@ -1,0 +1,5 @@
+config_generator_2.py
+*.txt
+perfect*json
+parse.py
+venv
