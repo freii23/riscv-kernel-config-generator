@@ -3,3 +3,4 @@ config_generator_2.py
 perfect*json
 parse.py
 venv
+html_parser.py
